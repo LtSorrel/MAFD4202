@@ -39,21 +39,21 @@
            display ws-course-header.
            display ws-space-contact.
 *      ----------------------------------------------------------------
-           move "Sarah"                        to ws-firstName.
-           move "McCann"                       to ws-lastName.
-           move "sarah.mccann@gmail.com"       to ws-email.
+           move "Random"                       to ws-firstName.
+           move "Person"                       to ws-lastName.
+           move "random.person@gmail.com"      to ws-email.
            move "416-672-4100"                 to ws-phoneNumber.
            display ws-contact.
 
-           move "Aaron"                        to ws-firstName.
-           move "Chambers"                     to ws-lastName.
-           move "aaron.chambers@dcmail.ca"     to ws-email.
+           move "John"                         to ws-firstName.
+           move "Smith"                        to ws-lastName.
+           move "john.smith@gmail.com"         to ws-email.
            move "647-767-2726"                 to ws-phoneNumber.
            display ws-contact.
 
-           move "Harry"                        to ws-firstName.
-           move "Palmer"                       to ws-lastName.
-           move "harry.palmer@dcmail.ca"       to ws-email.
+           move "Jane"                         to ws-firstName.
+           move "Smith"                        to ws-lastName.
+           move "jane.smith@gmail.com"         to ws-email.
            move "647-282-5412"                 to ws-phoneNumber.
            display ws-contact.
 *      ----------------------------------------------------------------
