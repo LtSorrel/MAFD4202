@@ -1,0 +1,4 @@
+D:\School\Winter 2020\MAFD 4202-04\Labs\Lab01\SMcCannHughesLab01\SMcCannHughesLab01\bin\x86\Debug\SMcCannHughesLab01.exe
+D:\School\Winter 2020\MAFD 4202-04\Labs\Lab01\SMcCannHughesLab01\SMcCannHughesLab01\bin\x86\Debug\Lab01.idy
+D:\School\Winter 2020\MAFD 4202-04\Labs\Lab01\SMcCannHughesLab01\SMcCannHughesLab01\obj\x86\Debug\Lab01.idy
+D:\School\Winter 2020\MAFD 4202-04\Labs\Lab01\SMcCannHughesLab01\SMcCannHughesLab01\obj\x86\Debug\SMcCannHughesLab01.exe
